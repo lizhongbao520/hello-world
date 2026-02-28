@@ -1,6 +1,6 @@
 # hello-world
-this is A.
-this is B.
-this is C.
 
+this is D.
+this is M.
+THIS IS N
 Add a readme-edits
